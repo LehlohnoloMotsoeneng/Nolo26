@@ -25,6 +25,72 @@ I'm always eager to learn, improve, and collaborate on innovative tech projects.
 - ⚡ Fun fact: I enjoy tackling real-world problems by combining both software and hardware solutions—it's where creativity meets functionality!
 
 ---
+## 🧾 Portfolio of Evidence: Work Readiness Training
+
+### 💼 Career Counselling
+
+*Evidence:*  
+> [Upload and link any documents, summaries, screenshots, or notes from career counselling sessions.]
+
+*Reflection (STAR Technique):*  
+*S:* Attended career counselling sessions during Work Readiness Week.  
+*T:* The goal was to identify career interests aligned with my technical strengths.  
+*A:* Participated in guided sessions and aptitude evaluations.  
+*R:* Gained clarity on potential ICT pathways and the importance of aligning passion with employability.
+
+---
+
+### 🧠 Skills and Interests
+
+*Evidence:*  
+> [Insert a list or table of key skills identified (technical + soft skills), or a scanned copy of your completed skills survey.]
+
+*Reflection (STAR Technique):*  
+*S:* I was tasked with assessing my existing skill set and career-related interests.  
+*T:* Identify top skills and interests to align with future goals.  
+*A:* Completed self-assessment surveys and feedback forms.  
+*R:* Discovered strong skills in problem-solving, teamwork, and front-end development.
+
+---
+
+### 🧬 Personality Assessment
+
+*Evidence:*  
+> [Link to personality test results or screenshot + brief summary of your type/traits.]
+
+*Reflection (STAR Technique):*  
+*S:* Completed a personality assessment to evaluate work-style compatibility.  
+*T:* Learn how my personality type fits into team-based and tech roles.  
+*A:* Took the MBTI or similar assessment.  
+*R:* Found I am an INFJ, which supports my tendency to focus on thoughtful, user-centered designs.
+
+---
+
+### 📄 Curriculum Vitae (CV)
+
+*Evidence:*  
+> [Link to your uploaded CV on Google Drive or GitHub.]
+
+*Reflection (STAR Technique):*  
+*S:* Developed a professional CV as part of job readiness training.  
+*T:* Showcase academic achievements, projects, and skills effectively.  
+*A:* Used a CV template and customized it to highlight personal strengths.  
+*R:* Finalized a job-ready CV aligned with IT industry expectations.
+
+---
+
+### 📬 CV Submission
+
+*Evidence:*  
+> [Upload screenshot of confirmation from Blackboard or employer submission.]
+
+*Reflection (STAR Technique):*  
+*S:* Required to submit CV for feedback/job application simulation.  
+*T:* Ensure accurate, professional CV submission via Blackboard.  
+*A:* Uploaded the final version after peer and lecturer feedback.  
+*R:* Submission completed successfully and feedback was positive.
+
+---
 
 ## 💼 Technical Skills
 
