@@ -69,7 +69,7 @@ I'm always eager to learn, improve, and collaborate on innovative tech projects.
 ### 📄 Curriculum Vitae (CV)
 
 *Evidence:*  
-> [Link to your uploaded CV on Google Drive or GitHub.]
+> https://github.com/LehlohnoloMotsoeneng/LehlohnoloMotsoeneng/blob/main/2025%20Updated%20C.V%20of%20Lehlohonolo%20Motsoeneng.pdf
 
 *Reflection (STAR Technique):*  
 *S:* Developed a professional CV as part of job readiness training.  
