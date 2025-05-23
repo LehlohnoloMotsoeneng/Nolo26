@@ -43,7 +43,7 @@ I'm always eager to learn, improve, and collaborate on innovative tech projects.
 ### 🧠 Skills and Interests
 
 *Evidence:*  
-> [Insert a list or table of key skills identified (technical + soft skills), or a scanned copy of your completed skills survey.]
+> [[Insert a list or table of key skills identified (technical + soft skills), or a scanned copy of your completed skills survey.](https://github.com/LehlohnoloMotsoeneng/LehlohnoloMotsoeneng/blob/main/%F0%9F%A7%A0%20Skills%20and%20Interests.png)]
 
 *Reflection (STAR Technique):*  
 *S:* I was tasked with assessing my existing skill set and career-related interests.  
