@@ -56,7 +56,7 @@ I'm always eager to learn, improve, and collaborate on innovative tech projects.
 ### 🧬 Personality Assessment
 
 *Evidence:*  
-> [[Link to personality test results or screenshot + brief summary of your type/traits.]
+> [[[Link to personality test results or screenshot + brief summary of your type/traits.](https://github.com/LehlohnoloMotsoeneng/LehlohnoloMotsoeneng/blob/main/Personality%20Assessment.png)]
 *Reflection (STAR Technique):*  
 *S:* Completed a personality assessment to evaluate work-style compatibility.  
 *T:* Learn how my personality type fits into team-based and tech roles.  
