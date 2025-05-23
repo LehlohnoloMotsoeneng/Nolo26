@@ -30,7 +30,7 @@ I'm always eager to learn, improve, and collaborate on innovative tech projects.
 ### 💼 Career Counselling
 
 *Evidence:*  
-> [Upload and link any documents, summaries, screenshots, or notes from career counselling sessions.]
+> [[Upload and link any documents, summaries, screenshots, or notes from career counselling sessions.]](https://github.com/LehlohnoloMotsoeneng/LehlohnoloMotsoeneng/blob/main/%F0%9F%92%BC%20Career%20Counselling.png)
 
 *Reflection (STAR Technique):*  
 *S:* Attended career counselling sessions during Work Readiness Week.  
