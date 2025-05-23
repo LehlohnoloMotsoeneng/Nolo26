@@ -56,8 +56,7 @@ I'm always eager to learn, improve, and collaborate on innovative tech projects.
 ### 🧬 Personality Assessment
 
 *Evidence:*  
-> [[Link to personality test results or screenshot + brief summary of your type/traits.](https://github.com/LehlohnoloMotsoeneng/LehlohnoloMotsoeneng/blob/main/%F0%9F%93%AC%20CV%20Submission.png)]
-
+> [[Link to personality test results or screenshot + brief summary of your type/traits.]
 *Reflection (STAR Technique):*  
 *S:* Completed a personality assessment to evaluate work-style compatibility.  
 *T:* Learn how my personality type fits into team-based and tech roles.  
@@ -82,7 +81,8 @@ I'm always eager to learn, improve, and collaborate on innovative tech projects.
 ### 📬 CV Submission
 
 *Evidence:*  
-> [Upload screenshot of confirmation from Blackboard or employer submission.]
+> [(https://github.com/LehlohnoloMotsoeneng/LehlohnoloMotsoeneng/blob/main/%F0%9F%93%AC%20CV%20Submission.png)]
+]
 
 *Reflection (STAR Technique):*  
 *S:* Required to submit CV for feedback/job application simulation.  
