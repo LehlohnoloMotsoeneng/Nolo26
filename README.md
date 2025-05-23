@@ -46,7 +46,6 @@ I'm always eager to learn, improve, and collaborate on innovative tech projects.
 ![Apache Derby](https://img.shields.io/badge/Apache%20Derby-%23F80000?style=for-the-badge&logo=apache&logoColor=white)
 ---
 ### 🛠 Tools & IDEs
-### 🛠 Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
